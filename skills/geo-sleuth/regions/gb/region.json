@@ -1,0 +1,31 @@
+{
+  "code": "GB",
+  "name": "United Kingdom",
+  "names": [
+    "United Kingdom",
+    "UK",
+    "Britain",
+    "Great Britain",
+    "GB",
+    "England",
+    "Scotland",
+    "Wales",
+    "Northern Ireland",
+    "United Kingdom of Great Britain and Northern Ireland"
+  ],
+  "status": "community",
+  "maintainers": [],
+  "docs": ["clues.md"],
+  "lookups": {
+    "plate": {"file": "data/plates.json"},
+    "postal-code": {"file": "data/postal_codes.json"}
+  },
+  "services": {
+    "poi": {"sources": "osm", "country": "gb"},
+    "street_view": "gsv.py"
+  },
+  "tips": {
+    "livery": "bus operator colour + route number → search \"<city> <colour> bus\"; TfL red is Greater London only as a first filter (other towns run red buses). Read the operator name on the side (Stagecoach, First, Arriva, Go-Ahead, National Express, a municipal fleet) and look the route up with `osm.py route`.",
+    "municipal": "council name on wheelie bins, lamp columns, street-name plates and planning notices; Welsh/English bilingual official signs → Wales; Scottish Gaelic bilingual official signs → Highlands and the Western Isles"
+  }
+}

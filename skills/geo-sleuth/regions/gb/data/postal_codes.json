@@ -1,0 +1,817 @@
+{
+ "_meta": {
+  "kind": "postal-code",
+  "normalize": {
+   "strip": " ",
+   "upper": true
+  },
+  "key_pattern": "^[A-Z]{1,2}",
+  "usage": "outward postcode or just the area letters, e.g. SW1A 1AA or SW. Longest area key wins (SW before S).",
+  "note": "Postcode areas, not districts. An area is larger than its named post town and often crosses council boundaries. GY/JE/IM are Crown dependencies. BF and BX are non-geographic and are listed only so they are not misread as Birmingham (B). GIR is omitted.",
+  "miss_note": "not a geographic UK or Crown-dependency postcode area in this table",
+  "source": [
+   "https://en.wikipedia.org/wiki/List_of_postcode_areas_in_the_United_Kingdom"
+  ],
+  "fetched": "2026-10-10",
+  "license": "Derived from Wikipedia, CC BY-SA 4.0",
+  "count": 126
+ },
+ "entries": {
+  "B": [
+   {
+    "admin1": "England",
+    "city": "Birmingham"
+   }
+  ],
+  "E": [
+   {
+    "admin1": "England",
+    "admin2": "Greater London",
+    "city": "London",
+    "note": "E is a London postal district (East London), not a region of England"
+   }
+  ],
+  "G": [
+   {
+    "admin1": "Scotland",
+    "city": "Glasgow"
+   }
+  ],
+  "L": [
+   {
+    "admin1": "England",
+    "city": "Liverpool"
+   }
+  ],
+  "M": [
+   {
+    "admin1": "England",
+    "city": "Manchester"
+   }
+  ],
+  "N": [
+   {
+    "admin1": "England",
+    "admin2": "Greater London",
+    "city": "London",
+    "note": "N is a London postal district (North London), not a region of England"
+   }
+  ],
+  "S": [
+   {
+    "admin1": "England",
+    "city": "Sheffield"
+   }
+  ],
+  "W": [
+   {
+    "admin1": "England",
+    "admin2": "Greater London",
+    "city": "London",
+    "note": "W is a London postal district (West London), not a region of England"
+   }
+  ],
+  "AB": [
+   {
+    "admin1": "Scotland",
+    "city": "Aberdeen"
+   }
+  ],
+  "AL": [
+   {
+    "admin1": "England",
+    "city": "St Albans"
+   }
+  ],
+  "BA": [
+   {
+    "admin1": "England",
+    "city": "Bath"
+   }
+  ],
+  "BB": [
+   {
+    "admin1": "England",
+    "city": "Blackburn"
+   }
+  ],
+  "BD": [
+   {
+    "admin1": "England",
+    "city": "Bradford"
+   }
+  ],
+  "BF": [
+   {
+    "admin1": "British Forces",
+    "note": "non-geographic British Forces Post Office; not a town"
+   }
+  ],
+  "BH": [
+   {
+    "admin1": "England",
+    "city": "Bournemouth"
+   }
+  ],
+  "BL": [
+   {
+    "admin1": "England",
+    "city": "Bolton"
+   }
+  ],
+  "BN": [
+   {
+    "admin1": "England",
+    "city": "Brighton"
+   }
+  ],
+  "BR": [
+   {
+    "admin1": "England",
+    "city": "Bromley"
+   }
+  ],
+  "BS": [
+   {
+    "admin1": "England",
+    "city": "Bristol"
+   }
+  ],
+  "BT": [
+   {
+    "admin1": "Northern Ireland",
+    "city": "Belfast"
+   }
+  ],
+  "BX": [
+   {
+    "admin1": "Non-geographic",
+    "note": "non-geographic (large-volume / PO Box); not a town"
+   }
+  ],
+  "CA": [
+   {
+    "admin1": "England",
+    "city": "Carlisle"
+   }
+  ],
+  "CB": [
+   {
+    "admin1": "England",
+    "city": "Cambridge"
+   }
+  ],
+  "CF": [
+   {
+    "admin1": "Wales",
+    "city": "Cardiff"
+   }
+  ],
+  "CH": [
+   {
+    "admin1": "England",
+    "city": "Chester",
+    "note": "CH also covers north-east Wales (Flintshire, Wrexham)"
+   },
+   {
+    "admin1": "Wales",
+    "city": "Chester",
+    "note": "CH districts in Flintshire and Wrexham"
+   }
+  ],
+  "CM": [
+   {
+    "admin1": "England",
+    "city": "Chelmsford"
+   }
+  ],
+  "CO": [
+   {
+    "admin1": "England",
+    "city": "Colchester"
+   }
+  ],
+  "CR": [
+   {
+    "admin1": "England",
+    "city": "Croydon"
+   }
+  ],
+  "CT": [
+   {
+    "admin1": "England",
+    "city": "Canterbury"
+   }
+  ],
+  "CV": [
+   {
+    "admin1": "England",
+    "city": "Coventry"
+   }
+  ],
+  "CW": [
+   {
+    "admin1": "England",
+    "city": "Crewe"
+   }
+  ],
+  "DA": [
+   {
+    "admin1": "England",
+    "city": "Dartford"
+   }
+  ],
+  "DD": [
+   {
+    "admin1": "Scotland",
+    "city": "Dundee"
+   }
+  ],
+  "DE": [
+   {
+    "admin1": "England",
+    "city": "Derby"
+   }
+  ],
+  "DG": [
+   {
+    "admin1": "Scotland",
+    "city": "Dumfries"
+   }
+  ],
+  "DH": [
+   {
+    "admin1": "England",
+    "city": "Durham"
+   }
+  ],
+  "DL": [
+   {
+    "admin1": "England",
+    "city": "Darlington"
+   }
+  ],
+  "DN": [
+   {
+    "admin1": "England",
+    "city": "Doncaster"
+   }
+  ],
+  "DT": [
+   {
+    "admin1": "England",
+    "city": "Dorchester"
+   }
+  ],
+  "DY": [
+   {
+    "admin1": "England",
+    "city": "Dudley"
+   }
+  ],
+  "EC": [
+   {
+    "admin1": "England",
+    "admin2": "Greater London",
+    "city": "London",
+    "note": "EC is a London postal district (East Central London), not a region of England"
+   }
+  ],
+  "EH": [
+   {
+    "admin1": "Scotland",
+    "city": "Edinburgh"
+   }
+  ],
+  "EN": [
+   {
+    "admin1": "England",
+    "city": "Enfield"
+   }
+  ],
+  "EX": [
+   {
+    "admin1": "England",
+    "city": "Exeter"
+   }
+  ],
+  "FK": [
+   {
+    "admin1": "Scotland",
+    "city": "Falkirk"
+   }
+  ],
+  "FY": [
+   {
+    "admin1": "England",
+    "city": "Blackpool"
+   }
+  ],
+  "GL": [
+   {
+    "admin1": "England",
+    "city": "Gloucester"
+   }
+  ],
+  "GU": [
+   {
+    "admin1": "England",
+    "city": "Guildford"
+   }
+  ],
+  "GY": [
+   {
+    "admin1": "Guernsey",
+    "note": "Crown dependency; not the United Kingdom. Do not treat as Glasgow (G)."
+   }
+  ],
+  "HA": [
+   {
+    "admin1": "England",
+    "city": "Harrow"
+   }
+  ],
+  "HD": [
+   {
+    "admin1": "England",
+    "city": "Huddersfield"
+   }
+  ],
+  "HG": [
+   {
+    "admin1": "England",
+    "city": "Harrogate"
+   }
+  ],
+  "HP": [
+   {
+    "admin1": "England",
+    "city": "Hemel Hempstead"
+   }
+  ],
+  "HR": [
+   {
+    "admin1": "England",
+    "city": "Hereford",
+    "note": "HR is mostly Herefordshire; a few districts spill into Wales"
+   },
+   {
+    "admin1": "Wales",
+    "city": "Hereford",
+    "note": "HR fringe in eastern Wales"
+   }
+  ],
+  "HS": [
+   {
+    "admin1": "Scotland",
+    "city": "Hebrides"
+   }
+  ],
+  "HU": [
+   {
+    "admin1": "England",
+    "city": "Hull"
+   }
+  ],
+  "HX": [
+   {
+    "admin1": "England",
+    "city": "Halifax"
+   }
+  ],
+  "IG": [
+   {
+    "admin1": "England",
+    "city": "Ilford"
+   }
+  ],
+  "IM": [
+   {
+    "admin1": "Isle of Man",
+    "note": "Crown dependency; not the United Kingdom"
+   }
+  ],
+  "IP": [
+   {
+    "admin1": "England",
+    "city": "Ipswich"
+   }
+  ],
+  "IV": [
+   {
+    "admin1": "Scotland",
+    "city": "Inverness"
+   }
+  ],
+  "JE": [
+   {
+    "admin1": "Jersey",
+    "note": "Crown dependency; not the United Kingdom"
+   }
+  ],
+  "KA": [
+   {
+    "admin1": "Scotland",
+    "city": "Kilmarnock"
+   }
+  ],
+  "KT": [
+   {
+    "admin1": "England",
+    "city": "Kingston upon Thames"
+   }
+  ],
+  "KW": [
+   {
+    "admin1": "Scotland",
+    "city": "Kirkwall"
+   }
+  ],
+  "KY": [
+   {
+    "admin1": "Scotland",
+    "city": "Kirkcaldy"
+   }
+  ],
+  "LA": [
+   {
+    "admin1": "England",
+    "city": "Lancaster"
+   }
+  ],
+  "LD": [
+   {
+    "admin1": "Wales",
+    "city": "Llandrindod Wells"
+   }
+  ],
+  "LE": [
+   {
+    "admin1": "England",
+    "city": "Leicester"
+   }
+  ],
+  "LL": [
+   {
+    "admin1": "Wales",
+    "city": "Llandudno"
+   }
+  ],
+  "LN": [
+   {
+    "admin1": "England",
+    "city": "Lincoln"
+   }
+  ],
+  "LS": [
+   {
+    "admin1": "England",
+    "city": "Leeds"
+   }
+  ],
+  "LU": [
+   {
+    "admin1": "England",
+    "city": "Luton"
+   }
+  ],
+  "ME": [
+   {
+    "admin1": "England",
+    "city": "Rochester"
+   }
+  ],
+  "MK": [
+   {
+    "admin1": "England",
+    "city": "Milton Keynes"
+   }
+  ],
+  "ML": [
+   {
+    "admin1": "Scotland",
+    "city": "Motherwell"
+   }
+  ],
+  "NE": [
+   {
+    "admin1": "England",
+    "city": "Newcastle upon Tyne"
+   }
+  ],
+  "NG": [
+   {
+    "admin1": "England",
+    "city": "Nottingham"
+   }
+  ],
+  "NN": [
+   {
+    "admin1": "England",
+    "city": "Northampton"
+   }
+  ],
+  "NP": [
+   {
+    "admin1": "Wales",
+    "city": "Newport"
+   }
+  ],
+  "NR": [
+   {
+    "admin1": "England",
+    "city": "Norwich"
+   }
+  ],
+  "NW": [
+   {
+    "admin1": "England",
+    "admin2": "Greater London",
+    "city": "London",
+    "note": "NW is a London postal district (North West London), not a region of England"
+   }
+  ],
+  "OL": [
+   {
+    "admin1": "England",
+    "city": "Oldham"
+   }
+  ],
+  "OX": [
+   {
+    "admin1": "England",
+    "city": "Oxford"
+   }
+  ],
+  "PA": [
+   {
+    "admin1": "Scotland",
+    "city": "Paisley"
+   }
+  ],
+  "PE": [
+   {
+    "admin1": "England",
+    "city": "Peterborough"
+   }
+  ],
+  "PH": [
+   {
+    "admin1": "Scotland",
+    "city": "Perth"
+   }
+  ],
+  "PL": [
+   {
+    "admin1": "England",
+    "city": "Plymouth"
+   }
+  ],
+  "PO": [
+   {
+    "admin1": "England",
+    "city": "Portsmouth"
+   }
+  ],
+  "PR": [
+   {
+    "admin1": "England",
+    "city": "Preston"
+   }
+  ],
+  "RG": [
+   {
+    "admin1": "England",
+    "city": "Reading"
+   }
+  ],
+  "RH": [
+   {
+    "admin1": "England",
+    "city": "Redhill"
+   }
+  ],
+  "RM": [
+   {
+    "admin1": "England",
+    "city": "Romford"
+   }
+  ],
+  "SA": [
+   {
+    "admin1": "Wales",
+    "city": "Swansea"
+   }
+  ],
+  "SE": [
+   {
+    "admin1": "England",
+    "admin2": "Greater London",
+    "city": "London",
+    "note": "SE is a London postal district (South East London), not a region of England"
+   }
+  ],
+  "SG": [
+   {
+    "admin1": "England",
+    "city": "Stevenage"
+   }
+  ],
+  "SK": [
+   {
+    "admin1": "England",
+    "city": "Stockport"
+   }
+  ],
+  "SL": [
+   {
+    "admin1": "England",
+    "city": "Slough"
+   }
+  ],
+  "SM": [
+   {
+    "admin1": "England",
+    "city": "Sutton"
+   }
+  ],
+  "SN": [
+   {
+    "admin1": "England",
+    "city": "Swindon"
+   }
+  ],
+  "SO": [
+   {
+    "admin1": "England",
+    "city": "Southampton"
+   }
+  ],
+  "SP": [
+   {
+    "admin1": "England",
+    "city": "Salisbury"
+   }
+  ],
+  "SR": [
+   {
+    "admin1": "England",
+    "city": "Sunderland"
+   }
+  ],
+  "SS": [
+   {
+    "admin1": "England",
+    "city": "Southend-on-Sea"
+   }
+  ],
+  "ST": [
+   {
+    "admin1": "England",
+    "city": "Stoke-on-Trent"
+   }
+  ],
+  "SW": [
+   {
+    "admin1": "England",
+    "admin2": "Greater London",
+    "city": "London",
+    "note": "SW is a London postal district (South West London), not a region of England"
+   }
+  ],
+  "SY": [
+   {
+    "admin1": "England",
+    "city": "Shrewsbury",
+    "note": "SY also covers large parts of mid Wales"
+   },
+   {
+    "admin1": "Wales",
+    "city": "Shrewsbury",
+    "note": "SY districts in Powys and Ceredigion"
+   }
+  ],
+  "TA": [
+   {
+    "admin1": "England",
+    "city": "Taunton"
+   }
+  ],
+  "TD": [
+   {
+    "admin1": "Scotland",
+    "city": "Galashiels",
+    "note": "TD also covers Berwick-upon-Tweed in England"
+   },
+   {
+    "admin1": "England",
+    "city": "Berwick-upon-Tweed",
+    "note": "English side of the TD area"
+   }
+  ],
+  "TF": [
+   {
+    "admin1": "England",
+    "city": "Telford"
+   }
+  ],
+  "TN": [
+   {
+    "admin1": "England",
+    "city": "Tunbridge Wells"
+   }
+  ],
+  "TQ": [
+   {
+    "admin1": "England",
+    "city": "Torquay"
+   }
+  ],
+  "TR": [
+   {
+    "admin1": "England",
+    "city": "Truro"
+   }
+  ],
+  "TS": [
+   {
+    "admin1": "England",
+    "city": "Cleveland"
+   }
+  ],
+  "TW": [
+   {
+    "admin1": "England",
+    "city": "Twickenham"
+   }
+  ],
+  "UB": [
+   {
+    "admin1": "England",
+    "city": "Southall"
+   }
+  ],
+  "WA": [
+   {
+    "admin1": "England",
+    "city": "Warrington"
+   }
+  ],
+  "WC": [
+   {
+    "admin1": "England",
+    "admin2": "Greater London",
+    "city": "London",
+    "note": "WC is a London postal district (West Central London), not a region of England"
+   }
+  ],
+  "WD": [
+   {
+    "admin1": "England",
+    "city": "Watford"
+   }
+  ],
+  "WF": [
+   {
+    "admin1": "England",
+    "city": "Wakefield"
+   }
+  ],
+  "WN": [
+   {
+    "admin1": "England",
+    "city": "Wigan"
+   }
+  ],
+  "WR": [
+   {
+    "admin1": "England",
+    "city": "Worcester"
+   }
+  ],
+  "WS": [
+   {
+    "admin1": "England",
+    "city": "Walsall"
+   }
+  ],
+  "WV": [
+   {
+    "admin1": "England",
+    "city": "Wolverhampton"
+   }
+  ],
+  "YO": [
+   {
+    "admin1": "England",
+    "city": "York"
+   }
+  ],
+  "ZE": [
+   {
+    "admin1": "Scotland",
+    "city": "Lerwick"
+   }
+  ]
+ }
+}

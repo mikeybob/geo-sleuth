@@ -59,6 +59,14 @@ class BundledPacks(unittest.TestCase):
         m = regions.lookup("area-code", "0817-1234567")["matches"]
         self.assertEqual([(x["country_code"], x["admin2"]) for x in m], [("CN", "南充市")])
 
+    def test_gb_lookups_keep_their_answers(self):
+        m = regions.lookup("plate", "SA64 XYZ", "gb")["matches"]
+        self.assertEqual([(x["admin1"], x.get("city")) for x in m], [("Scotland", "Glasgow")])
+        m = regions.lookup("postal-code", "SW1A 1AA", "uk")["matches"]
+        self.assertEqual([(x["admin1"], x.get("admin2"), x.get("city")) for x in m],
+                         [("England", "Greater London", "London")])
+        self.assertEqual(regions.lookup("plate", "KA01AB1234", "gb")["matches"], [])
+
     def test_descriptions_are_not_places(self):
         # Wikipedia cells like "市区普通汽车" (city-area cars) used to become fake candidates
         m = regions.lookup("plate", "京A", "cn")["matches"]

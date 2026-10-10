@@ -1,0 +1,2906 @@
+{
+ "_meta": {
+  "kind": "plate",
+  "normalize": {
+   "strip": " ·-",
+   "upper": true
+  },
+  "key_pattern": "^[A-Z]{2}(?:\\d{2}[A-Z]{3})?$",
+  "usage": "2001+ Great Britain mark: first two letters (local memory tag), e.g. LN13 OGP or just LN. Age digits and the last three letters are ignored.",
+  "note": "Current DVLA local memory tags only. Northern Ireland, pre-2001 marks, personalised / cherished marks, diplomatic, military, trade and personal-export (X*) plates are not in the table.",
+  "miss_note": "not a 2001+ GB memory tag in this table (personalised mark, reserved letters, NI, older format, or personal export X*)",
+  "source": [
+   "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_the_United_Kingdom",
+   "https://www.gov.uk/displaying-number-plates"
+  ],
+  "fetched": "2026-10-10",
+  "license": "Derived from Wikipedia, CC BY-SA 4.0",
+  "count": 412
+ },
+ "entries": {
+  "AA": [
+   {
+    "admin1": "England",
+    "city": "Peterborough",
+    "note": "official mnemonic: Anglia; DVLA office: Peterborough; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "AB": [
+   {
+    "admin1": "England",
+    "city": "Peterborough",
+    "note": "official mnemonic: Anglia; DVLA office: Peterborough; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "AC": [
+   {
+    "admin1": "England",
+    "city": "Peterborough",
+    "note": "official mnemonic: Anglia; DVLA office: Peterborough; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "AD": [
+   {
+    "admin1": "England",
+    "city": "Peterborough",
+    "note": "official mnemonic: Anglia; DVLA office: Peterborough; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "AE": [
+   {
+    "admin1": "England",
+    "city": "Peterborough",
+    "note": "official mnemonic: Anglia; DVLA office: Peterborough; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "AF": [
+   {
+    "admin1": "England",
+    "city": "Peterborough",
+    "note": "official mnemonic: Anglia; DVLA office: Peterborough; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "AG": [
+   {
+    "admin1": "England",
+    "city": "Peterborough",
+    "note": "official mnemonic: Anglia; DVLA office: Peterborough; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "AJ": [
+   {
+    "admin1": "England",
+    "city": "Peterborough",
+    "note": "official mnemonic: Anglia; DVLA office: Peterborough; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "AK": [
+   {
+    "admin1": "England",
+    "city": "Peterborough",
+    "note": "official mnemonic: Anglia; DVLA office: Peterborough; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "AM": [
+   {
+    "admin1": "England",
+    "city": "Peterborough",
+    "note": "official mnemonic: Anglia; DVLA office: Peterborough; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "AN": [
+   {
+    "admin1": "England",
+    "city": "Peterborough",
+    "note": "official mnemonic: Anglia; DVLA office: Peterborough; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "AO": [
+   {
+    "admin1": "England",
+    "city": "Norwich",
+    "note": "official mnemonic: Anglia; DVLA office: Norwich; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "AP": [
+   {
+    "admin1": "England",
+    "city": "Norwich",
+    "note": "official mnemonic: Anglia; DVLA office: Norwich; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "AR": [
+   {
+    "admin1": "England",
+    "city": "Norwich",
+    "note": "official mnemonic: Anglia; DVLA office: Norwich; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "AS": [
+   {
+    "admin1": "England",
+    "city": "Norwich",
+    "note": "official mnemonic: Anglia; DVLA office: Norwich; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "AT": [
+   {
+    "admin1": "England",
+    "city": "Norwich",
+    "note": "official mnemonic: Anglia; DVLA office: Norwich; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "AU": [
+   {
+    "admin1": "England",
+    "city": "Norwich",
+    "note": "official mnemonic: Anglia; DVLA office: Norwich; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "AV": [
+   {
+    "admin1": "England",
+    "city": "Ipswich",
+    "note": "official mnemonic: Anglia; DVLA office: Ipswich; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "AW": [
+   {
+    "admin1": "England",
+    "city": "Ipswich",
+    "note": "official mnemonic: Anglia; DVLA office: Ipswich; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "AX": [
+   {
+    "admin1": "England",
+    "city": "Ipswich",
+    "note": "official mnemonic: Anglia; DVLA office: Ipswich; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "AY": [
+   {
+    "admin1": "England",
+    "city": "Ipswich",
+    "note": "official mnemonic: Anglia; DVLA office: Ipswich; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "BA": [
+   {
+    "admin1": "England",
+    "city": "Birmingham",
+    "note": "official mnemonic: Birmingham; DVLA office: Birmingham; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "BB": [
+   {
+    "admin1": "England",
+    "city": "Birmingham",
+    "note": "official mnemonic: Birmingham; DVLA office: Birmingham; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "BC": [
+   {
+    "admin1": "England",
+    "city": "Birmingham",
+    "note": "official mnemonic: Birmingham; DVLA office: Birmingham; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "BD": [
+   {
+    "admin1": "England",
+    "city": "Birmingham",
+    "note": "official mnemonic: Birmingham; DVLA office: Birmingham; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "BE": [
+   {
+    "admin1": "England",
+    "city": "Birmingham",
+    "note": "official mnemonic: Birmingham; DVLA office: Birmingham; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "BF": [
+   {
+    "admin1": "England",
+    "city": "Birmingham",
+    "note": "official mnemonic: Birmingham; DVLA office: Birmingham; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "BG": [
+   {
+    "admin1": "England",
+    "city": "Birmingham",
+    "note": "official mnemonic: Birmingham; DVLA office: Birmingham; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "BH": [
+   {
+    "admin1": "England",
+    "city": "Birmingham",
+    "note": "official mnemonic: Birmingham; DVLA office: Birmingham; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "BJ": [
+   {
+    "admin1": "England",
+    "city": "Birmingham",
+    "note": "official mnemonic: Birmingham; DVLA office: Birmingham; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "BK": [
+   {
+    "admin1": "England",
+    "city": "Birmingham",
+    "note": "official mnemonic: Birmingham; DVLA office: Birmingham; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "BL": [
+   {
+    "admin1": "England",
+    "city": "Birmingham",
+    "note": "official mnemonic: Birmingham; DVLA office: Birmingham; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "BM": [
+   {
+    "admin1": "England",
+    "city": "Birmingham",
+    "note": "official mnemonic: Birmingham; DVLA office: Birmingham; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "BN": [
+   {
+    "admin1": "England",
+    "city": "Birmingham",
+    "note": "official mnemonic: Birmingham; DVLA office: Birmingham; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "BO": [
+   {
+    "admin1": "England",
+    "city": "Birmingham",
+    "note": "official mnemonic: Birmingham; DVLA office: Birmingham; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "BP": [
+   {
+    "admin1": "England",
+    "city": "Birmingham",
+    "note": "official mnemonic: Birmingham; DVLA office: Birmingham; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "BR": [
+   {
+    "admin1": "England",
+    "city": "Birmingham",
+    "note": "official mnemonic: Birmingham; DVLA office: Birmingham; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "BS": [
+   {
+    "admin1": "England",
+    "city": "Birmingham",
+    "note": "official mnemonic: Birmingham; DVLA office: Birmingham; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "BT": [
+   {
+    "admin1": "England",
+    "city": "Birmingham",
+    "note": "official mnemonic: Birmingham; DVLA office: Birmingham; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "BU": [
+   {
+    "admin1": "England",
+    "city": "Birmingham",
+    "note": "official mnemonic: Birmingham; DVLA office: Birmingham; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "BV": [
+   {
+    "admin1": "England",
+    "city": "Birmingham",
+    "note": "official mnemonic: Birmingham; DVLA office: Birmingham; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "BW": [
+   {
+    "admin1": "England",
+    "city": "Birmingham",
+    "note": "official mnemonic: Birmingham; DVLA office: Birmingham; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "BX": [
+   {
+    "admin1": "England",
+    "city": "Birmingham",
+    "note": "official mnemonic: Birmingham; DVLA office: Birmingham; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "CA": [
+   {
+    "admin1": "Wales",
+    "city": "Cardiff",
+    "note": "official mnemonic: Cymru (Wales); DVLA office: Cardiff; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "CB": [
+   {
+    "admin1": "Wales",
+    "city": "Cardiff",
+    "note": "official mnemonic: Cymru (Wales); DVLA office: Cardiff; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "CC": [
+   {
+    "admin1": "Wales",
+    "city": "Cardiff",
+    "note": "official mnemonic: Cymru (Wales); DVLA office: Cardiff; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "CD": [
+   {
+    "admin1": "Wales",
+    "city": "Cardiff",
+    "note": "official mnemonic: Cymru (Wales); DVLA office: Cardiff; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "CE": [
+   {
+    "admin1": "Wales",
+    "city": "Cardiff",
+    "note": "official mnemonic: Cymru (Wales); DVLA office: Cardiff; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "CF": [
+   {
+    "admin1": "Wales",
+    "city": "Cardiff",
+    "note": "official mnemonic: Cymru (Wales); DVLA office: Cardiff; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "CG": [
+   {
+    "admin1": "Wales",
+    "city": "Cardiff",
+    "note": "official mnemonic: Cymru (Wales); DVLA office: Cardiff; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "CH": [
+   {
+    "admin1": "Wales",
+    "city": "Cardiff",
+    "note": "official mnemonic: Cymru (Wales); DVLA office: Cardiff; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "CJ": [
+   {
+    "admin1": "Wales",
+    "city": "Cardiff",
+    "note": "official mnemonic: Cymru (Wales); DVLA office: Cardiff; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "CK": [
+   {
+    "admin1": "Wales",
+    "city": "Cardiff",
+    "note": "official mnemonic: Cymru (Wales); DVLA office: Cardiff; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "CL": [
+   {
+    "admin1": "Wales",
+    "city": "Cardiff",
+    "note": "official mnemonic: Cymru (Wales); DVLA office: Cardiff; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "CM": [
+   {
+    "admin1": "Wales",
+    "city": "Cardiff",
+    "note": "official mnemonic: Cymru (Wales); DVLA office: Cardiff; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "CN": [
+   {
+    "admin1": "Wales",
+    "city": "Cardiff",
+    "note": "official mnemonic: Cymru (Wales); DVLA office: Cardiff; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "CO": [
+   {
+    "admin1": "Wales",
+    "city": "Cardiff",
+    "note": "official mnemonic: Cymru (Wales); DVLA office: Cardiff; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "CP": [
+   {
+    "admin1": "Wales",
+    "city": "Swansea",
+    "note": "official mnemonic: Cymru (Wales); DVLA office: Swansea; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "CR": [
+   {
+    "admin1": "Wales",
+    "city": "Swansea",
+    "note": "official mnemonic: Cymru (Wales); DVLA office: Swansea; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "CS": [
+   {
+    "admin1": "Wales",
+    "city": "Swansea",
+    "note": "official mnemonic: Cymru (Wales); DVLA office: Swansea; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "CT": [
+   {
+    "admin1": "Wales",
+    "city": "Swansea",
+    "note": "official mnemonic: Cymru (Wales); DVLA office: Swansea; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "CU": [
+   {
+    "admin1": "Wales",
+    "city": "Swansea",
+    "note": "official mnemonic: Cymru (Wales); DVLA office: Swansea; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "CV": [
+   {
+    "admin1": "Wales",
+    "city": "Swansea",
+    "note": "official mnemonic: Cymru (Wales); DVLA office: Swansea; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "CW": [
+   {
+    "admin1": "Wales",
+    "city": "Bangor",
+    "note": "official mnemonic: Cymru (Wales); DVLA office: Bangor; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "CX": [
+   {
+    "admin1": "Wales",
+    "city": "Bangor",
+    "note": "official mnemonic: Cymru (Wales); DVLA office: Bangor; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "CY": [
+   {
+    "admin1": "Wales",
+    "city": "Bangor",
+    "note": "official mnemonic: Cymru (Wales); DVLA office: Bangor; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "DA": [
+   {
+    "admin1": "England",
+    "city": "Chester",
+    "note": "official mnemonic: Deeside to Shrewsbury; DVLA office: Chester; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "DB": [
+   {
+    "admin1": "England",
+    "city": "Chester",
+    "note": "official mnemonic: Deeside to Shrewsbury; DVLA office: Chester; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "DC": [
+   {
+    "admin1": "England",
+    "city": "Chester",
+    "note": "official mnemonic: Deeside to Shrewsbury; DVLA office: Chester; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "DD": [
+   {
+    "admin1": "England",
+    "city": "Chester",
+    "note": "official mnemonic: Deeside to Shrewsbury; DVLA office: Chester; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "DE": [
+   {
+    "admin1": "England",
+    "city": "Chester",
+    "note": "official mnemonic: Deeside to Shrewsbury; DVLA office: Chester; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "DF": [
+   {
+    "admin1": "England",
+    "city": "Chester",
+    "note": "official mnemonic: Deeside to Shrewsbury; DVLA office: Chester; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "DG": [
+   {
+    "admin1": "England",
+    "city": "Chester",
+    "note": "official mnemonic: Deeside to Shrewsbury; DVLA office: Chester; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "DH": [
+   {
+    "admin1": "England",
+    "city": "Chester",
+    "note": "official mnemonic: Deeside to Shrewsbury; DVLA office: Chester; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "DJ": [
+   {
+    "admin1": "England",
+    "city": "Chester",
+    "note": "official mnemonic: Deeside to Shrewsbury; DVLA office: Chester; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "DK": [
+   {
+    "admin1": "England",
+    "city": "Chester",
+    "note": "official mnemonic: Deeside to Shrewsbury; DVLA office: Chester; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "DL": [
+   {
+    "admin1": "England",
+    "city": "Shrewsbury",
+    "note": "official mnemonic: Deeside to Shrewsbury; DVLA office: Shrewsbury; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "DM": [
+   {
+    "admin1": "England",
+    "city": "Shrewsbury",
+    "note": "official mnemonic: Deeside to Shrewsbury; DVLA office: Shrewsbury; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "DN": [
+   {
+    "admin1": "England",
+    "city": "Shrewsbury",
+    "note": "official mnemonic: Deeside to Shrewsbury; DVLA office: Shrewsbury; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "DO": [
+   {
+    "admin1": "England",
+    "city": "Shrewsbury",
+    "note": "official mnemonic: Deeside to Shrewsbury; DVLA office: Shrewsbury; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "DP": [
+   {
+    "admin1": "England",
+    "city": "Shrewsbury",
+    "note": "official mnemonic: Deeside to Shrewsbury; DVLA office: Shrewsbury; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "DS": [
+   {
+    "admin1": "England",
+    "city": "Shrewsbury",
+    "note": "official mnemonic: Deeside to Shrewsbury; DVLA office: Shrewsbury; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "DT": [
+   {
+    "admin1": "England",
+    "city": "Shrewsbury",
+    "note": "official mnemonic: Deeside to Shrewsbury; DVLA office: Shrewsbury; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "DU": [
+   {
+    "admin1": "England",
+    "city": "Shrewsbury",
+    "note": "official mnemonic: Deeside to Shrewsbury; DVLA office: Shrewsbury; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "DV": [
+   {
+    "admin1": "England",
+    "city": "Shrewsbury",
+    "note": "official mnemonic: Deeside to Shrewsbury; DVLA office: Shrewsbury; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "DW": [
+   {
+    "admin1": "England",
+    "city": "Shrewsbury",
+    "note": "official mnemonic: Deeside to Shrewsbury; DVLA office: Shrewsbury; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "DX": [
+   {
+    "admin1": "England",
+    "city": "Shrewsbury",
+    "note": "official mnemonic: Deeside to Shrewsbury; DVLA office: Shrewsbury; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "DY": [
+   {
+    "admin1": "England",
+    "city": "Shrewsbury",
+    "note": "official mnemonic: Deeside to Shrewsbury; DVLA office: Shrewsbury; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "EA": [
+   {
+    "admin1": "England",
+    "city": "Chelmsford",
+    "note": "official mnemonic: Essex; DVLA office: Chelmsford; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "EB": [
+   {
+    "admin1": "England",
+    "city": "Chelmsford",
+    "note": "official mnemonic: Essex; DVLA office: Chelmsford; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "EC": [
+   {
+    "admin1": "England",
+    "city": "Chelmsford",
+    "note": "official mnemonic: Essex; DVLA office: Chelmsford; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "EE": [
+   {
+    "admin1": "England",
+    "city": "Chelmsford",
+    "note": "official mnemonic: Essex; DVLA office: Chelmsford; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "EF": [
+   {
+    "admin1": "England",
+    "city": "Chelmsford",
+    "note": "official mnemonic: Essex; DVLA office: Chelmsford; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "EG": [
+   {
+    "admin1": "England",
+    "city": "Chelmsford",
+    "note": "official mnemonic: Essex; DVLA office: Chelmsford; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "EJ": [
+   {
+    "admin1": "England",
+    "city": "Chelmsford",
+    "note": "official mnemonic: Essex; DVLA office: Chelmsford; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "EK": [
+   {
+    "admin1": "England",
+    "city": "Chelmsford",
+    "note": "official mnemonic: Essex; DVLA office: Chelmsford; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "EL": [
+   {
+    "admin1": "England",
+    "city": "Chelmsford",
+    "note": "official mnemonic: Essex; DVLA office: Chelmsford; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "EM": [
+   {
+    "admin1": "England",
+    "city": "Chelmsford",
+    "note": "official mnemonic: Essex; DVLA office: Chelmsford; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "EN": [
+   {
+    "admin1": "England",
+    "city": "Chelmsford",
+    "note": "official mnemonic: Essex; DVLA office: Chelmsford; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "EO": [
+   {
+    "admin1": "England",
+    "city": "Chelmsford",
+    "note": "official mnemonic: Essex; DVLA office: Chelmsford; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "EP": [
+   {
+    "admin1": "England",
+    "city": "Chelmsford",
+    "note": "official mnemonic: Essex; DVLA office: Chelmsford; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "ER": [
+   {
+    "admin1": "England",
+    "city": "Chelmsford",
+    "note": "official mnemonic: Essex; DVLA office: Chelmsford; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "ES": [
+   {
+    "admin1": "England",
+    "city": "Chelmsford",
+    "note": "official mnemonic: Essex; DVLA office: Chelmsford; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "ET": [
+   {
+    "admin1": "England",
+    "city": "Chelmsford",
+    "note": "official mnemonic: Essex; DVLA office: Chelmsford; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "EU": [
+   {
+    "admin1": "England",
+    "city": "Chelmsford",
+    "note": "official mnemonic: Essex; DVLA office: Chelmsford; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "EV": [
+   {
+    "admin1": "England",
+    "city": "Chelmsford",
+    "note": "official mnemonic: Essex; DVLA office: Chelmsford; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "EW": [
+   {
+    "admin1": "England",
+    "city": "Chelmsford",
+    "note": "official mnemonic: Essex; DVLA office: Chelmsford; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "EX": [
+   {
+    "admin1": "England",
+    "city": "Chelmsford",
+    "note": "official mnemonic: Essex; DVLA office: Chelmsford; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "EY": [
+   {
+    "admin1": "England",
+    "city": "Chelmsford",
+    "note": "official mnemonic: Essex; DVLA office: Chelmsford; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "FA": [
+   {
+    "admin1": "England",
+    "city": "Nottingham",
+    "note": "official mnemonic: Forest and Fens; DVLA office: Nottingham; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "FB": [
+   {
+    "admin1": "England",
+    "city": "Nottingham",
+    "note": "official mnemonic: Forest and Fens; DVLA office: Nottingham; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "FC": [
+   {
+    "admin1": "England",
+    "city": "Nottingham",
+    "note": "official mnemonic: Forest and Fens; DVLA office: Nottingham; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "FD": [
+   {
+    "admin1": "England",
+    "city": "Nottingham",
+    "note": "official mnemonic: Forest and Fens; DVLA office: Nottingham; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "FE": [
+   {
+    "admin1": "England",
+    "city": "Nottingham",
+    "note": "official mnemonic: Forest and Fens; DVLA office: Nottingham; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "FF": [
+   {
+    "admin1": "England",
+    "city": "Nottingham",
+    "note": "official mnemonic: Forest and Fens; DVLA office: Nottingham; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "FG": [
+   {
+    "admin1": "England",
+    "city": "Nottingham",
+    "note": "official mnemonic: Forest and Fens; DVLA office: Nottingham; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "FH": [
+   {
+    "admin1": "England",
+    "city": "Nottingham",
+    "note": "official mnemonic: Forest and Fens; DVLA office: Nottingham; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "FJ": [
+   {
+    "admin1": "England",
+    "city": "Nottingham",
+    "note": "official mnemonic: Forest and Fens; DVLA office: Nottingham; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "FK": [
+   {
+    "admin1": "England",
+    "city": "Nottingham",
+    "note": "official mnemonic: Forest and Fens; DVLA office: Nottingham; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "FL": [
+   {
+    "admin1": "England",
+    "city": "Nottingham",
+    "note": "official mnemonic: Forest and Fens; DVLA office: Nottingham; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "FM": [
+   {
+    "admin1": "England",
+    "city": "Nottingham",
+    "note": "official mnemonic: Forest and Fens; DVLA office: Nottingham; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "FN": [
+   {
+    "admin1": "England",
+    "city": "Nottingham",
+    "note": "official mnemonic: Forest and Fens; DVLA office: Nottingham; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "FP": [
+   {
+    "admin1": "England",
+    "city": "Nottingham",
+    "note": "official mnemonic: Forest and Fens; DVLA office: Nottingham; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "FR": [
+   {
+    "admin1": "England",
+    "city": "Lincoln",
+    "note": "official mnemonic: Forest and Fens; DVLA office: Lincoln; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "FS": [
+   {
+    "admin1": "England",
+    "city": "Lincoln",
+    "note": "official mnemonic: Forest and Fens; DVLA office: Lincoln; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "FT": [
+   {
+    "admin1": "England",
+    "city": "Lincoln",
+    "note": "official mnemonic: Forest and Fens; DVLA office: Lincoln; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "FV": [
+   {
+    "admin1": "England",
+    "city": "Lincoln",
+    "note": "official mnemonic: Forest and Fens; DVLA office: Lincoln; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "FW": [
+   {
+    "admin1": "England",
+    "city": "Lincoln",
+    "note": "official mnemonic: Forest and Fens; DVLA office: Lincoln; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "FX": [
+   {
+    "admin1": "England",
+    "city": "Lincoln",
+    "note": "official mnemonic: Forest and Fens; DVLA office: Lincoln; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "FY": [
+   {
+    "admin1": "England",
+    "city": "Lincoln",
+    "note": "official mnemonic: Forest and Fens; DVLA office: Lincoln; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "GA": [
+   {
+    "admin1": "England",
+    "city": "Maidstone",
+    "note": "official mnemonic: Garden of England; DVLA office: Maidstone; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "GB": [
+   {
+    "admin1": "England",
+    "city": "Maidstone",
+    "note": "official mnemonic: Garden of England; DVLA office: Maidstone; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "GC": [
+   {
+    "admin1": "England",
+    "city": "Maidstone",
+    "note": "official mnemonic: Garden of England; DVLA office: Maidstone; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "GD": [
+   {
+    "admin1": "England",
+    "city": "Maidstone",
+    "note": "official mnemonic: Garden of England; DVLA office: Maidstone; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "GE": [
+   {
+    "admin1": "England",
+    "city": "Maidstone",
+    "note": "official mnemonic: Garden of England; DVLA office: Maidstone; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "GF": [
+   {
+    "admin1": "England",
+    "city": "Maidstone",
+    "note": "official mnemonic: Garden of England; DVLA office: Maidstone; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "GG": [
+   {
+    "admin1": "England",
+    "city": "Maidstone",
+    "note": "official mnemonic: Garden of England; DVLA office: Maidstone; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "GH": [
+   {
+    "admin1": "England",
+    "city": "Maidstone",
+    "note": "official mnemonic: Garden of England; DVLA office: Maidstone; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "GJ": [
+   {
+    "admin1": "England",
+    "city": "Maidstone",
+    "note": "official mnemonic: Garden of England; DVLA office: Maidstone; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "GK": [
+   {
+    "admin1": "England",
+    "city": "Maidstone",
+    "note": "official mnemonic: Garden of England; DVLA office: Maidstone; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "GL": [
+   {
+    "admin1": "England",
+    "city": "Maidstone",
+    "note": "official mnemonic: Garden of England; DVLA office: Maidstone; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "GM": [
+   {
+    "admin1": "England",
+    "city": "Maidstone",
+    "note": "official mnemonic: Garden of England; DVLA office: Maidstone; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "GN": [
+   {
+    "admin1": "England",
+    "city": "Maidstone",
+    "note": "official mnemonic: Garden of England; DVLA office: Maidstone; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "GP": [
+   {
+    "admin1": "England",
+    "city": "Brighton",
+    "note": "official mnemonic: Garden of England; DVLA office: Brighton; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "GR": [
+   {
+    "admin1": "England",
+    "city": "Brighton",
+    "note": "official mnemonic: Garden of England; DVLA office: Brighton; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "GS": [
+   {
+    "admin1": "England",
+    "city": "Brighton",
+    "note": "official mnemonic: Garden of England; DVLA office: Brighton; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "GT": [
+   {
+    "admin1": "England",
+    "city": "Brighton",
+    "note": "official mnemonic: Garden of England; DVLA office: Brighton; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "GU": [
+   {
+    "admin1": "England",
+    "city": "Brighton",
+    "note": "official mnemonic: Garden of England; DVLA office: Brighton; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "GV": [
+   {
+    "admin1": "England",
+    "city": "Brighton",
+    "note": "official mnemonic: Garden of England; DVLA office: Brighton; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "GW": [
+   {
+    "admin1": "England",
+    "city": "Brighton",
+    "note": "official mnemonic: Garden of England; DVLA office: Brighton; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "GX": [
+   {
+    "admin1": "England",
+    "city": "Brighton",
+    "note": "official mnemonic: Garden of England; DVLA office: Brighton; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "GY": [
+   {
+    "admin1": "England",
+    "city": "Brighton",
+    "note": "official mnemonic: Garden of England; DVLA office: Brighton; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "HA": [
+   {
+    "admin1": "England",
+    "city": "Bournemouth",
+    "note": "official mnemonic: Hampshire and Dorset; DVLA office: Bournemouth; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "HB": [
+   {
+    "admin1": "England",
+    "city": "Bournemouth",
+    "note": "official mnemonic: Hampshire and Dorset; DVLA office: Bournemouth; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "HC": [
+   {
+    "admin1": "England",
+    "city": "Bournemouth",
+    "note": "official mnemonic: Hampshire and Dorset; DVLA office: Bournemouth; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "HD": [
+   {
+    "admin1": "England",
+    "city": "Bournemouth",
+    "note": "official mnemonic: Hampshire and Dorset; DVLA office: Bournemouth; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "HE": [
+   {
+    "admin1": "England",
+    "city": "Bournemouth",
+    "note": "official mnemonic: Hampshire and Dorset; DVLA office: Bournemouth; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "HF": [
+   {
+    "admin1": "England",
+    "city": "Bournemouth",
+    "note": "official mnemonic: Hampshire and Dorset; DVLA office: Bournemouth; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "HG": [
+   {
+    "admin1": "England",
+    "city": "Bournemouth",
+    "note": "official mnemonic: Hampshire and Dorset; DVLA office: Bournemouth; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "HH": [
+   {
+    "admin1": "England",
+    "city": "Bournemouth",
+    "note": "official mnemonic: Hampshire and Dorset; DVLA office: Bournemouth; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "HJ": [
+   {
+    "admin1": "England",
+    "city": "Bournemouth",
+    "note": "official mnemonic: Hampshire and Dorset; DVLA office: Bournemouth; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "HK": [
+   {
+    "admin1": "England",
+    "city": "Portsmouth",
+    "note": "official mnemonic: Hampshire and Dorset; DVLA office: Portsmouth; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "HL": [
+   {
+    "admin1": "England",
+    "city": "Portsmouth",
+    "note": "official mnemonic: Hampshire and Dorset; DVLA office: Portsmouth; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "HM": [
+   {
+    "admin1": "England",
+    "city": "Portsmouth",
+    "note": "official mnemonic: Hampshire and Dorset; DVLA office: Portsmouth; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "HN": [
+   {
+    "admin1": "England",
+    "city": "Portsmouth",
+    "note": "official mnemonic: Hampshire and Dorset; DVLA office: Portsmouth; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "HP": [
+   {
+    "admin1": "England",
+    "city": "Portsmouth",
+    "note": "official mnemonic: Hampshire and Dorset; DVLA office: Portsmouth; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "HR": [
+   {
+    "admin1": "England",
+    "city": "Portsmouth",
+    "note": "official mnemonic: Hampshire and Dorset; DVLA office: Portsmouth; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "HS": [
+   {
+    "admin1": "England",
+    "city": "Portsmouth",
+    "note": "official mnemonic: Hampshire and Dorset; DVLA office: Portsmouth; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "HT": [
+   {
+    "admin1": "England",
+    "city": "Portsmouth",
+    "note": "official mnemonic: Hampshire and Dorset; DVLA office: Portsmouth; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "HU": [
+   {
+    "admin1": "England",
+    "city": "Portsmouth",
+    "note": "official mnemonic: Hampshire and Dorset; DVLA office: Portsmouth; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "HV": [
+   {
+    "admin1": "England",
+    "city": "Portsmouth",
+    "note": "official mnemonic: Hampshire and Dorset; DVLA office: Portsmouth; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "HW": [
+   {
+    "admin1": "England",
+    "admin2": "Isle of Wight",
+    "note": "HW reserved for the Isle of Wight; issued by the Portsmouth DVLA office"
+   }
+  ],
+  "HX": [
+   {
+    "admin1": "England",
+    "city": "Portsmouth",
+    "note": "official mnemonic: Hampshire and Dorset; DVLA office: Portsmouth; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "HY": [
+   {
+    "admin1": "England",
+    "city": "Portsmouth",
+    "note": "official mnemonic: Hampshire and Dorset; DVLA office: Portsmouth; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "KA": [
+   {
+    "admin1": "England",
+    "city": "Borehamwood",
+    "note": "DVLA office: Borehamwood (formerly Luton); 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "KB": [
+   {
+    "admin1": "England",
+    "city": "Borehamwood",
+    "note": "DVLA office: Borehamwood (formerly Luton); 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "KC": [
+   {
+    "admin1": "England",
+    "city": "Borehamwood",
+    "note": "DVLA office: Borehamwood (formerly Luton); 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "KD": [
+   {
+    "admin1": "England",
+    "city": "Borehamwood",
+    "note": "DVLA office: Borehamwood (formerly Luton); 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "KE": [
+   {
+    "admin1": "England",
+    "city": "Borehamwood",
+    "note": "DVLA office: Borehamwood (formerly Luton); 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "KF": [
+   {
+    "admin1": "England",
+    "city": "Borehamwood",
+    "note": "DVLA office: Borehamwood (formerly Luton); 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "KG": [
+   {
+    "admin1": "England",
+    "city": "Borehamwood",
+    "note": "DVLA office: Borehamwood (formerly Luton); 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "KH": [
+   {
+    "admin1": "England",
+    "city": "Borehamwood",
+    "note": "DVLA office: Borehamwood (formerly Luton); 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "KJ": [
+   {
+    "admin1": "England",
+    "city": "Borehamwood",
+    "note": "DVLA office: Borehamwood (formerly Luton); 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "KK": [
+   {
+    "admin1": "England",
+    "city": "Borehamwood",
+    "note": "DVLA office: Borehamwood (formerly Luton); 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "KL": [
+   {
+    "admin1": "England",
+    "city": "Borehamwood",
+    "note": "DVLA office: Borehamwood (formerly Luton); 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "KM": [
+   {
+    "admin1": "England",
+    "city": "Northampton",
+    "note": "DVLA office: Northampton; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "KN": [
+   {
+    "admin1": "England",
+    "city": "Northampton",
+    "note": "DVLA office: Northampton; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "KO": [
+   {
+    "admin1": "England",
+    "city": "Northampton",
+    "note": "DVLA office: Northampton; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "KP": [
+   {
+    "admin1": "England",
+    "city": "Northampton",
+    "note": "DVLA office: Northampton; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "KR": [
+   {
+    "admin1": "England",
+    "city": "Northampton",
+    "note": "DVLA office: Northampton; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "KS": [
+   {
+    "admin1": "England",
+    "city": "Northampton",
+    "note": "DVLA office: Northampton; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "KT": [
+   {
+    "admin1": "England",
+    "city": "Northampton",
+    "note": "DVLA office: Northampton; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "KU": [
+   {
+    "admin1": "England",
+    "city": "Northampton",
+    "note": "DVLA office: Northampton; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "KV": [
+   {
+    "admin1": "England",
+    "city": "Northampton",
+    "note": "DVLA office: Northampton; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "KW": [
+   {
+    "admin1": "England",
+    "city": "Northampton",
+    "note": "DVLA office: Northampton; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "KX": [
+   {
+    "admin1": "England",
+    "city": "Northampton",
+    "note": "DVLA office: Northampton; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "KY": [
+   {
+    "admin1": "England",
+    "city": "Northampton",
+    "note": "DVLA office: Northampton; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "LA": [
+   {
+    "admin1": "England",
+    "city": "Wimbledon",
+    "note": "official mnemonic: London; DVLA office: Wimbledon; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "LB": [
+   {
+    "admin1": "England",
+    "city": "Wimbledon",
+    "note": "official mnemonic: London; DVLA office: Wimbledon; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "LC": [
+   {
+    "admin1": "England",
+    "city": "Wimbledon",
+    "note": "official mnemonic: London; DVLA office: Wimbledon; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "LD": [
+   {
+    "admin1": "England",
+    "city": "Wimbledon",
+    "note": "official mnemonic: London; DVLA office: Wimbledon; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "LE": [
+   {
+    "admin1": "England",
+    "city": "Wimbledon",
+    "note": "official mnemonic: London; DVLA office: Wimbledon; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "LF": [
+   {
+    "admin1": "England",
+    "city": "Wimbledon",
+    "note": "official mnemonic: London; DVLA office: Wimbledon; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "LG": [
+   {
+    "admin1": "England",
+    "city": "Wimbledon",
+    "note": "official mnemonic: London; DVLA office: Wimbledon; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "LH": [
+   {
+    "admin1": "England",
+    "city": "Wimbledon",
+    "note": "official mnemonic: London; DVLA office: Wimbledon; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "LJ": [
+   {
+    "admin1": "England",
+    "city": "Wimbledon",
+    "note": "official mnemonic: London; DVLA office: Wimbledon; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "LK": [
+   {
+    "admin1": "England",
+    "city": "Borehamwood",
+    "note": "official mnemonic: London; DVLA office: Borehamwood (formerly Stanmore); 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "LL": [
+   {
+    "admin1": "England",
+    "city": "Borehamwood",
+    "note": "official mnemonic: London; DVLA office: Borehamwood (formerly Stanmore); 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "LM": [
+   {
+    "admin1": "England",
+    "city": "Borehamwood",
+    "note": "official mnemonic: London; DVLA office: Borehamwood (formerly Stanmore); 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "LN": [
+   {
+    "admin1": "England",
+    "city": "Borehamwood",
+    "note": "official mnemonic: London; DVLA office: Borehamwood (formerly Stanmore); 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "LO": [
+   {
+    "admin1": "England",
+    "city": "Borehamwood",
+    "note": "official mnemonic: London; DVLA office: Borehamwood (formerly Stanmore); 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "LP": [
+   {
+    "admin1": "England",
+    "city": "Borehamwood",
+    "note": "official mnemonic: London; DVLA office: Borehamwood (formerly Stanmore); 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "LR": [
+   {
+    "admin1": "England",
+    "city": "Borehamwood",
+    "note": "official mnemonic: London; DVLA office: Borehamwood (formerly Stanmore); 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "LS": [
+   {
+    "admin1": "England",
+    "city": "Borehamwood",
+    "note": "official mnemonic: London; DVLA office: Borehamwood (formerly Stanmore); 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "LT": [
+   {
+    "admin1": "England",
+    "city": "Borehamwood",
+    "note": "official mnemonic: London; DVLA office: Borehamwood (formerly Stanmore); 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "LU": [
+   {
+    "admin1": "England",
+    "city": "Sidcup",
+    "note": "official mnemonic: London; DVLA office: Sidcup; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "LV": [
+   {
+    "admin1": "England",
+    "city": "Sidcup",
+    "note": "official mnemonic: London; DVLA office: Sidcup; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "LW": [
+   {
+    "admin1": "England",
+    "city": "Sidcup",
+    "note": "official mnemonic: London; DVLA office: Sidcup; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "LX": [
+   {
+    "admin1": "England",
+    "city": "Sidcup",
+    "note": "official mnemonic: London; DVLA office: Sidcup; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "LY": [
+   {
+    "admin1": "England",
+    "city": "Sidcup",
+    "note": "official mnemonic: London; DVLA office: Sidcup; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "MA": [
+   {
+    "admin1": "England",
+    "city": "Manchester",
+    "note": "official mnemonic: Manchester and Merseyside; DVLA office: Manchester; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "MB": [
+   {
+    "admin1": "England",
+    "city": "Manchester",
+    "note": "official mnemonic: Manchester and Merseyside; DVLA office: Manchester; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "MC": [
+   {
+    "admin1": "England",
+    "city": "Manchester",
+    "note": "official mnemonic: Manchester and Merseyside; DVLA office: Manchester; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "MD": [
+   {
+    "admin1": "England",
+    "city": "Manchester",
+    "note": "official mnemonic: Manchester and Merseyside; DVLA office: Manchester; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "ME": [
+   {
+    "admin1": "England",
+    "city": "Manchester",
+    "note": "official mnemonic: Manchester and Merseyside; DVLA office: Manchester; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "MF": [
+   {
+    "admin1": "England",
+    "city": "Manchester",
+    "note": "official mnemonic: Manchester and Merseyside; DVLA office: Manchester; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "MG": [
+   {
+    "admin1": "England",
+    "city": "Manchester",
+    "note": "official mnemonic: Manchester and Merseyside; DVLA office: Manchester; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "MH": [
+   {
+    "admin1": "England",
+    "city": "Manchester",
+    "note": "official mnemonic: Manchester and Merseyside; DVLA office: Manchester; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "MJ": [
+   {
+    "admin1": "England",
+    "city": "Manchester",
+    "note": "official mnemonic: Manchester and Merseyside; DVLA office: Manchester; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "MK": [
+   {
+    "admin1": "England",
+    "city": "Manchester",
+    "note": "official mnemonic: Manchester and Merseyside; DVLA office: Manchester; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "ML": [
+   {
+    "admin1": "England",
+    "city": "Manchester",
+    "note": "official mnemonic: Manchester and Merseyside; DVLA office: Manchester; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "MM": [
+   {
+    "admin1": "England",
+    "city": "Manchester",
+    "note": "official mnemonic: Manchester and Merseyside; DVLA office: Manchester; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "MP": [
+   {
+    "admin1": "England",
+    "city": "Manchester",
+    "note": "official mnemonic: Manchester and Merseyside; DVLA office: Manchester; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "MT": [
+   {
+    "admin1": "England",
+    "city": "Manchester",
+    "note": "official mnemonic: Manchester and Merseyside; DVLA office: Manchester; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "MU": [
+   {
+    "admin1": "England",
+    "city": "Manchester",
+    "note": "official mnemonic: Manchester and Merseyside; DVLA office: Manchester; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "MV": [
+   {
+    "admin1": "England",
+    "city": "Manchester",
+    "note": "official mnemonic: Manchester and Merseyside; DVLA office: Manchester; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "MW": [
+   {
+    "admin1": "England",
+    "city": "Manchester",
+    "note": "official mnemonic: Manchester and Merseyside; DVLA office: Manchester; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "MX": [
+   {
+    "admin1": "England",
+    "city": "Manchester",
+    "note": "official mnemonic: Manchester and Merseyside; DVLA office: Manchester; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "NA": [
+   {
+    "admin1": "England",
+    "city": "Newcastle",
+    "note": "official mnemonic: North; DVLA office: Newcastle; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "NB": [
+   {
+    "admin1": "England",
+    "city": "Newcastle",
+    "note": "official mnemonic: North; DVLA office: Newcastle; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "NC": [
+   {
+    "admin1": "England",
+    "city": "Newcastle",
+    "note": "official mnemonic: North; DVLA office: Newcastle; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "ND": [
+   {
+    "admin1": "England",
+    "city": "Newcastle",
+    "note": "official mnemonic: North; DVLA office: Newcastle; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "NE": [
+   {
+    "admin1": "England",
+    "city": "Newcastle",
+    "note": "official mnemonic: North; DVLA office: Newcastle; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "NG": [
+   {
+    "admin1": "England",
+    "city": "Newcastle",
+    "note": "official mnemonic: North; DVLA office: Newcastle; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "NH": [
+   {
+    "admin1": "England",
+    "city": "Newcastle",
+    "note": "official mnemonic: North; DVLA office: Newcastle; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "NJ": [
+   {
+    "admin1": "England",
+    "city": "Newcastle",
+    "note": "official mnemonic: North; DVLA office: Newcastle; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "NK": [
+   {
+    "admin1": "England",
+    "city": "Newcastle",
+    "note": "official mnemonic: North; DVLA office: Newcastle; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "NL": [
+   {
+    "admin1": "England",
+    "city": "Newcastle",
+    "note": "official mnemonic: North; DVLA office: Newcastle; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "NM": [
+   {
+    "admin1": "England",
+    "city": "Newcastle",
+    "note": "official mnemonic: North; DVLA office: Newcastle; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "NN": [
+   {
+    "admin1": "England",
+    "city": "Newcastle",
+    "note": "official mnemonic: North; DVLA office: Newcastle; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "NO": [
+   {
+    "admin1": "England",
+    "city": "Newcastle",
+    "note": "official mnemonic: North; DVLA office: Newcastle; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "NP": [
+   {
+    "admin1": "England",
+    "city": "Stockton",
+    "note": "official mnemonic: North; DVLA office: Stockton; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "NR": [
+   {
+    "admin1": "England",
+    "city": "Stockton",
+    "note": "official mnemonic: North; DVLA office: Stockton; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "NS": [
+   {
+    "admin1": "England",
+    "city": "Stockton",
+    "note": "official mnemonic: North; DVLA office: Stockton; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "NT": [
+   {
+    "admin1": "England",
+    "city": "Stockton",
+    "note": "official mnemonic: North; DVLA office: Stockton; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "NU": [
+   {
+    "admin1": "England",
+    "city": "Stockton",
+    "note": "official mnemonic: North; DVLA office: Stockton; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "NV": [
+   {
+    "admin1": "England",
+    "city": "Stockton",
+    "note": "official mnemonic: North; DVLA office: Stockton; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "NW": [
+   {
+    "admin1": "England",
+    "city": "Stockton",
+    "note": "official mnemonic: North; DVLA office: Stockton; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "NX": [
+   {
+    "admin1": "England",
+    "city": "Stockton",
+    "note": "official mnemonic: North; DVLA office: Stockton; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "NY": [
+   {
+    "admin1": "England",
+    "city": "Stockton",
+    "note": "official mnemonic: North; DVLA office: Stockton; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "OA": [
+   {
+    "admin1": "England",
+    "city": "Oxford",
+    "note": "official mnemonic: Oxford; DVLA office: Oxford; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "OB": [
+   {
+    "admin1": "England",
+    "city": "Oxford",
+    "note": "official mnemonic: Oxford; DVLA office: Oxford; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "OC": [
+   {
+    "admin1": "England",
+    "city": "Oxford",
+    "note": "official mnemonic: Oxford; DVLA office: Oxford; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "OD": [
+   {
+    "admin1": "England",
+    "city": "Oxford",
+    "note": "official mnemonic: Oxford; DVLA office: Oxford; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "OE": [
+   {
+    "admin1": "England",
+    "city": "Oxford",
+    "note": "official mnemonic: Oxford; DVLA office: Oxford; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "OF": [
+   {
+    "admin1": "England",
+    "city": "Oxford",
+    "note": "official mnemonic: Oxford; DVLA office: Oxford; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "OG": [
+   {
+    "admin1": "England",
+    "city": "Oxford",
+    "note": "official mnemonic: Oxford; DVLA office: Oxford; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "OH": [
+   {
+    "admin1": "England",
+    "city": "Oxford",
+    "note": "official mnemonic: Oxford; DVLA office: Oxford; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "OJ": [
+   {
+    "admin1": "England",
+    "city": "Oxford",
+    "note": "official mnemonic: Oxford; DVLA office: Oxford; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "OL": [
+   {
+    "admin1": "England",
+    "city": "Oxford",
+    "note": "official mnemonic: Oxford; DVLA office: Oxford; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "OM": [
+   {
+    "admin1": "England",
+    "city": "Oxford",
+    "note": "official mnemonic: Oxford; DVLA office: Oxford; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "OO": [
+   {
+    "admin1": "England",
+    "city": "Oxford",
+    "note": "official mnemonic: Oxford; DVLA office: Oxford; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "OP": [
+   {
+    "admin1": "England",
+    "city": "Oxford",
+    "note": "official mnemonic: Oxford; DVLA office: Oxford; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "OT": [
+   {
+    "admin1": "England",
+    "city": "Oxford",
+    "note": "official mnemonic: Oxford; DVLA office: Oxford; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "OU": [
+   {
+    "admin1": "England",
+    "city": "Oxford",
+    "note": "official mnemonic: Oxford; DVLA office: Oxford; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "OV": [
+   {
+    "admin1": "England",
+    "city": "Oxford",
+    "note": "official mnemonic: Oxford; DVLA office: Oxford; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "OW": [
+   {
+    "admin1": "England",
+    "city": "Oxford",
+    "note": "official mnemonic: Oxford; DVLA office: Oxford; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "OX": [
+   {
+    "admin1": "England",
+    "city": "Oxford",
+    "note": "official mnemonic: Oxford; DVLA office: Oxford; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "OY": [
+   {
+    "admin1": "England",
+    "city": "Oxford",
+    "note": "official mnemonic: Oxford; DVLA office: Oxford; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "PA": [
+   {
+    "admin1": "England",
+    "city": "Preston",
+    "note": "official mnemonic: Preston; DVLA office: Preston; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "PB": [
+   {
+    "admin1": "England",
+    "city": "Preston",
+    "note": "official mnemonic: Preston; DVLA office: Preston; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "PC": [
+   {
+    "admin1": "England",
+    "city": "Preston",
+    "note": "official mnemonic: Preston; DVLA office: Preston; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "PD": [
+   {
+    "admin1": "England",
+    "city": "Preston",
+    "note": "official mnemonic: Preston; DVLA office: Preston; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "PE": [
+   {
+    "admin1": "England",
+    "city": "Preston",
+    "note": "official mnemonic: Preston; DVLA office: Preston; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "PF": [
+   {
+    "admin1": "England",
+    "city": "Preston",
+    "note": "official mnemonic: Preston; DVLA office: Preston; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "PG": [
+   {
+    "admin1": "England",
+    "city": "Preston",
+    "note": "official mnemonic: Preston; DVLA office: Preston; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "PH": [
+   {
+    "admin1": "England",
+    "city": "Preston",
+    "note": "official mnemonic: Preston; DVLA office: Preston; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "PJ": [
+   {
+    "admin1": "England",
+    "city": "Preston",
+    "note": "official mnemonic: Preston; DVLA office: Preston; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "PK": [
+   {
+    "admin1": "England",
+    "city": "Preston",
+    "note": "official mnemonic: Preston; DVLA office: Preston; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "PL": [
+   {
+    "admin1": "England",
+    "city": "Preston",
+    "note": "official mnemonic: Preston; DVLA office: Preston; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "PM": [
+   {
+    "admin1": "England",
+    "city": "Preston",
+    "note": "official mnemonic: Preston; DVLA office: Preston; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "PN": [
+   {
+    "admin1": "England",
+    "city": "Preston",
+    "note": "official mnemonic: Preston; DVLA office: Preston; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "PO": [
+   {
+    "admin1": "England",
+    "city": "Preston",
+    "note": "official mnemonic: Preston; DVLA office: Preston; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "PP": [
+   {
+    "admin1": "England",
+    "city": "Preston",
+    "note": "official mnemonic: Preston; DVLA office: Preston; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "PR": [
+   {
+    "admin1": "England",
+    "city": "Preston",
+    "note": "official mnemonic: Preston; DVLA office: Preston; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "PS": [
+   {
+    "admin1": "England",
+    "city": "Preston",
+    "note": "official mnemonic: Preston; DVLA office: Preston; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "PT": [
+   {
+    "admin1": "England",
+    "city": "Preston",
+    "note": "official mnemonic: Preston; DVLA office: Preston; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "PU": [
+   {
+    "admin1": "England",
+    "city": "Carlisle",
+    "note": "official mnemonic: Preston; DVLA office: Carlisle; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "PV": [
+   {
+    "admin1": "England",
+    "city": "Carlisle",
+    "note": "official mnemonic: Preston; DVLA office: Carlisle; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "PW": [
+   {
+    "admin1": "England",
+    "city": "Carlisle",
+    "note": "official mnemonic: Preston; DVLA office: Carlisle; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "PX": [
+   {
+    "admin1": "England",
+    "city": "Carlisle",
+    "note": "official mnemonic: Preston; DVLA office: Carlisle; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "PY": [
+   {
+    "admin1": "England",
+    "city": "Carlisle",
+    "note": "official mnemonic: Preston; DVLA office: Carlisle; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "RA": [
+   {
+    "admin1": "England",
+    "city": "Reading",
+    "note": "official mnemonic: Reading; DVLA office: Reading; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "RB": [
+   {
+    "admin1": "England",
+    "city": "Reading",
+    "note": "official mnemonic: Reading; DVLA office: Reading; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "RC": [
+   {
+    "admin1": "England",
+    "city": "Reading",
+    "note": "official mnemonic: Reading; DVLA office: Reading; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "RD": [
+   {
+    "admin1": "England",
+    "city": "Reading",
+    "note": "official mnemonic: Reading; DVLA office: Reading; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "RE": [
+   {
+    "admin1": "England",
+    "city": "Reading",
+    "note": "official mnemonic: Reading; DVLA office: Reading; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "RF": [
+   {
+    "admin1": "England",
+    "city": "Reading",
+    "note": "official mnemonic: Reading; DVLA office: Reading; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "RG": [
+   {
+    "admin1": "England",
+    "city": "Reading",
+    "note": "official mnemonic: Reading; DVLA office: Reading; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "RH": [
+   {
+    "admin1": "England",
+    "city": "Reading",
+    "note": "official mnemonic: Reading; DVLA office: Reading; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "RJ": [
+   {
+    "admin1": "England",
+    "city": "Reading",
+    "note": "official mnemonic: Reading; DVLA office: Reading; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "RK": [
+   {
+    "admin1": "England",
+    "city": "Reading",
+    "note": "official mnemonic: Reading; DVLA office: Reading; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "RL": [
+   {
+    "admin1": "England",
+    "city": "Reading",
+    "note": "official mnemonic: Reading; DVLA office: Reading; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "RM": [
+   {
+    "admin1": "England",
+    "city": "Reading",
+    "note": "official mnemonic: Reading; DVLA office: Reading; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "RN": [
+   {
+    "admin1": "England",
+    "city": "Reading",
+    "note": "official mnemonic: Reading; DVLA office: Reading; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "RO": [
+   {
+    "admin1": "England",
+    "city": "Reading",
+    "note": "official mnemonic: Reading; DVLA office: Reading; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "RP": [
+   {
+    "admin1": "England",
+    "city": "Reading",
+    "note": "official mnemonic: Reading; DVLA office: Reading; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "RR": [
+   {
+    "admin1": "England",
+    "city": "Reading",
+    "note": "official mnemonic: Reading; DVLA office: Reading; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "RS": [
+   {
+    "admin1": "England",
+    "city": "Reading",
+    "note": "official mnemonic: Reading; DVLA office: Reading; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "RT": [
+   {
+    "admin1": "England",
+    "city": "Reading",
+    "note": "official mnemonic: Reading; DVLA office: Reading; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "RV": [
+   {
+    "admin1": "England",
+    "city": "Reading",
+    "note": "official mnemonic: Reading; DVLA office: Reading; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "RW": [
+   {
+    "admin1": "England",
+    "city": "Reading",
+    "note": "official mnemonic: Reading; DVLA office: Reading; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "RX": [
+   {
+    "admin1": "England",
+    "city": "Reading",
+    "note": "official mnemonic: Reading; DVLA office: Reading; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "RY": [
+   {
+    "admin1": "England",
+    "city": "Reading",
+    "note": "official mnemonic: Reading; DVLA office: Reading; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "SA": [
+   {
+    "admin1": "Scotland",
+    "city": "Glasgow",
+    "note": "official mnemonic: Scotland; DVLA office: Glasgow; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "SB": [
+   {
+    "admin1": "Scotland",
+    "city": "Glasgow",
+    "note": "official mnemonic: Scotland; DVLA office: Glasgow; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "SC": [
+   {
+    "admin1": "Scotland",
+    "city": "Glasgow",
+    "note": "official mnemonic: Scotland; DVLA office: Glasgow; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "SD": [
+   {
+    "admin1": "Scotland",
+    "city": "Glasgow",
+    "note": "official mnemonic: Scotland; DVLA office: Glasgow; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "SE": [
+   {
+    "admin1": "Scotland",
+    "city": "Glasgow",
+    "note": "official mnemonic: Scotland; DVLA office: Glasgow; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "SF": [
+   {
+    "admin1": "Scotland",
+    "city": "Glasgow",
+    "note": "official mnemonic: Scotland; DVLA office: Glasgow; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "SG": [
+   {
+    "admin1": "Scotland",
+    "city": "Glasgow",
+    "note": "official mnemonic: Scotland; DVLA office: Glasgow; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "SH": [
+   {
+    "admin1": "Scotland",
+    "city": "Glasgow",
+    "note": "official mnemonic: Scotland; DVLA office: Glasgow; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "SJ": [
+   {
+    "admin1": "Scotland",
+    "city": "Glasgow",
+    "note": "official mnemonic: Scotland; DVLA office: Glasgow; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "SK": [
+   {
+    "admin1": "Scotland",
+    "city": "Edinburgh",
+    "note": "official mnemonic: Scotland; DVLA office: Edinburgh; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "SL": [
+   {
+    "admin1": "Scotland",
+    "city": "Edinburgh",
+    "note": "official mnemonic: Scotland; DVLA office: Edinburgh; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "SM": [
+   {
+    "admin1": "Scotland",
+    "city": "Edinburgh",
+    "note": "official mnemonic: Scotland; DVLA office: Edinburgh; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "SN": [
+   {
+    "admin1": "Scotland",
+    "city": "Edinburgh",
+    "note": "official mnemonic: Scotland; DVLA office: Edinburgh; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "SO": [
+   {
+    "admin1": "Scotland",
+    "city": "Edinburgh",
+    "note": "official mnemonic: Scotland; DVLA office: Edinburgh; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "SP": [
+   {
+    "admin1": "Scotland",
+    "city": "Dundee",
+    "note": "official mnemonic: Scotland; DVLA office: Dundee; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "SR": [
+   {
+    "admin1": "Scotland",
+    "city": "Dundee",
+    "note": "official mnemonic: Scotland; DVLA office: Dundee; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "SS": [
+   {
+    "admin1": "Scotland",
+    "city": "Dundee",
+    "note": "official mnemonic: Scotland; DVLA office: Dundee; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "ST": [
+   {
+    "admin1": "Scotland",
+    "city": "Dundee",
+    "note": "official mnemonic: Scotland; DVLA office: Dundee; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "SV": [
+   {
+    "admin1": "Scotland",
+    "city": "Aberdeen",
+    "note": "official mnemonic: Scotland; DVLA office: Aberdeen; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "SW": [
+   {
+    "admin1": "Scotland",
+    "city": "Aberdeen",
+    "note": "official mnemonic: Scotland; DVLA office: Aberdeen; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "SX": [
+   {
+    "admin1": "Scotland",
+    "city": "Inverness",
+    "note": "official mnemonic: Scotland; DVLA office: Inverness; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "SY": [
+   {
+    "admin1": "Scotland",
+    "city": "Inverness",
+    "note": "official mnemonic: Scotland; DVLA office: Inverness; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "VA": [
+   {
+    "admin1": "England",
+    "city": "Worcester",
+    "note": "official mnemonic: Severn Valley; DVLA office: Worcester; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "VB": [
+   {
+    "admin1": "England",
+    "city": "Worcester",
+    "note": "official mnemonic: Severn Valley; DVLA office: Worcester; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "VC": [
+   {
+    "admin1": "England",
+    "city": "Worcester",
+    "note": "official mnemonic: Severn Valley; DVLA office: Worcester; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "VE": [
+   {
+    "admin1": "England",
+    "city": "Worcester",
+    "note": "official mnemonic: Severn Valley; DVLA office: Worcester; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "VF": [
+   {
+    "admin1": "England",
+    "city": "Worcester",
+    "note": "official mnemonic: Severn Valley; DVLA office: Worcester; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "VG": [
+   {
+    "admin1": "England",
+    "city": "Worcester",
+    "note": "official mnemonic: Severn Valley; DVLA office: Worcester; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "VH": [
+   {
+    "admin1": "England",
+    "city": "Worcester",
+    "note": "official mnemonic: Severn Valley; DVLA office: Worcester; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "VJ": [
+   {
+    "admin1": "England",
+    "city": "Worcester",
+    "note": "official mnemonic: Severn Valley; DVLA office: Worcester; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "VK": [
+   {
+    "admin1": "England",
+    "city": "Worcester",
+    "note": "official mnemonic: Severn Valley; DVLA office: Worcester; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "VL": [
+   {
+    "admin1": "England",
+    "city": "Worcester",
+    "note": "official mnemonic: Severn Valley; DVLA office: Worcester; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "VM": [
+   {
+    "admin1": "England",
+    "city": "Worcester",
+    "note": "official mnemonic: Severn Valley; DVLA office: Worcester; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "VN": [
+   {
+    "admin1": "England",
+    "city": "Worcester",
+    "note": "official mnemonic: Severn Valley; DVLA office: Worcester; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "VO": [
+   {
+    "admin1": "England",
+    "city": "Worcester",
+    "note": "official mnemonic: Severn Valley; DVLA office: Worcester; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "VP": [
+   {
+    "admin1": "England",
+    "city": "Worcester",
+    "note": "official mnemonic: Severn Valley; DVLA office: Worcester; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "VR": [
+   {
+    "admin1": "England",
+    "city": "Worcester",
+    "note": "official mnemonic: Severn Valley; DVLA office: Worcester; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "VS": [
+   {
+    "admin1": "England",
+    "city": "Worcester",
+    "note": "official mnemonic: Severn Valley; DVLA office: Worcester; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "VT": [
+   {
+    "admin1": "England",
+    "city": "Worcester",
+    "note": "official mnemonic: Severn Valley; DVLA office: Worcester; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "VU": [
+   {
+    "admin1": "England",
+    "city": "Worcester",
+    "note": "official mnemonic: Severn Valley; DVLA office: Worcester; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "VV": [
+   {
+    "admin1": "England",
+    "city": "Worcester",
+    "note": "official mnemonic: Severn Valley; DVLA office: Worcester; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "VX": [
+   {
+    "admin1": "England",
+    "city": "Worcester",
+    "note": "official mnemonic: Severn Valley; DVLA office: Worcester; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "VY": [
+   {
+    "admin1": "England",
+    "city": "Worcester",
+    "note": "official mnemonic: Severn Valley; DVLA office: Worcester; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "WA": [
+   {
+    "admin1": "England",
+    "city": "Exeter",
+    "note": "official mnemonic: West of England; DVLA office: Exeter; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "WB": [
+   {
+    "admin1": "England",
+    "city": "Exeter",
+    "note": "official mnemonic: West of England; DVLA office: Exeter; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "WD": [
+   {
+    "admin1": "England",
+    "city": "Exeter",
+    "note": "official mnemonic: West of England; DVLA office: Exeter; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "WE": [
+   {
+    "admin1": "England",
+    "city": "Exeter",
+    "note": "official mnemonic: West of England; DVLA office: Exeter; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "WF": [
+   {
+    "admin1": "England",
+    "city": "Exeter",
+    "note": "official mnemonic: West of England; DVLA office: Exeter; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "WG": [
+   {
+    "admin1": "England",
+    "city": "Exeter",
+    "note": "official mnemonic: West of England; DVLA office: Exeter; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "WH": [
+   {
+    "admin1": "England",
+    "city": "Exeter",
+    "note": "official mnemonic: West of England; DVLA office: Exeter; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "WJ": [
+   {
+    "admin1": "England",
+    "city": "Exeter",
+    "note": "official mnemonic: West of England; DVLA office: Exeter; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "WK": [
+   {
+    "admin1": "England",
+    "city": "Truro",
+    "note": "official mnemonic: West of England; DVLA office: Truro; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "WL": [
+   {
+    "admin1": "England",
+    "city": "Truro",
+    "note": "official mnemonic: West of England; DVLA office: Truro; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "WM": [
+   {
+    "admin1": "England",
+    "city": "Bristol",
+    "note": "official mnemonic: West of England; DVLA office: Bristol; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "WN": [
+   {
+    "admin1": "England",
+    "city": "Bristol",
+    "note": "official mnemonic: West of England; DVLA office: Bristol; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "WO": [
+   {
+    "admin1": "England",
+    "city": "Bristol",
+    "note": "official mnemonic: West of England; DVLA office: Bristol; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "WP": [
+   {
+    "admin1": "England",
+    "city": "Bristol",
+    "note": "official mnemonic: West of England; DVLA office: Bristol; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "WR": [
+   {
+    "admin1": "England",
+    "city": "Bristol",
+    "note": "official mnemonic: West of England; DVLA office: Bristol; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "WS": [
+   {
+    "admin1": "England",
+    "city": "Bristol",
+    "note": "official mnemonic: West of England; DVLA office: Bristol; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "WT": [
+   {
+    "admin1": "England",
+    "city": "Bristol",
+    "note": "official mnemonic: West of England; DVLA office: Bristol; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "WU": [
+   {
+    "admin1": "England",
+    "city": "Bristol",
+    "note": "official mnemonic: West of England; DVLA office: Bristol; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "WV": [
+   {
+    "admin1": "England",
+    "city": "Bristol",
+    "note": "official mnemonic: West of England; DVLA office: Bristol; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "WW": [
+   {
+    "admin1": "England",
+    "city": "Bristol",
+    "note": "official mnemonic: West of England; DVLA office: Bristol; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "WX": [
+   {
+    "admin1": "England",
+    "city": "Bristol",
+    "note": "official mnemonic: West of England; DVLA office: Bristol; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "WY": [
+   {
+    "admin1": "England",
+    "city": "Bristol",
+    "note": "official mnemonic: West of England; DVLA office: Bristol; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "YA": [
+   {
+    "admin1": "England",
+    "city": "Leeds",
+    "note": "official mnemonic: Yorkshire; DVLA office: Leeds; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "YB": [
+   {
+    "admin1": "England",
+    "city": "Leeds",
+    "note": "official mnemonic: Yorkshire; DVLA office: Leeds; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "YC": [
+   {
+    "admin1": "England",
+    "city": "Leeds",
+    "note": "official mnemonic: Yorkshire; DVLA office: Leeds; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "YD": [
+   {
+    "admin1": "England",
+    "city": "Leeds",
+    "note": "official mnemonic: Yorkshire; DVLA office: Leeds; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "YE": [
+   {
+    "admin1": "England",
+    "city": "Leeds",
+    "note": "official mnemonic: Yorkshire; DVLA office: Leeds; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "YF": [
+   {
+    "admin1": "England",
+    "city": "Leeds",
+    "note": "official mnemonic: Yorkshire; DVLA office: Leeds; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "YG": [
+   {
+    "admin1": "England",
+    "city": "Leeds",
+    "note": "official mnemonic: Yorkshire; DVLA office: Leeds; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "YH": [
+   {
+    "admin1": "England",
+    "city": "Leeds",
+    "note": "official mnemonic: Yorkshire; DVLA office: Leeds; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "YJ": [
+   {
+    "admin1": "England",
+    "city": "Leeds",
+    "note": "official mnemonic: Yorkshire; DVLA office: Leeds; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "YK": [
+   {
+    "admin1": "England",
+    "city": "Leeds",
+    "note": "official mnemonic: Yorkshire; DVLA office: Leeds; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "YL": [
+   {
+    "admin1": "England",
+    "city": "Leeds",
+    "note": "official mnemonic: Yorkshire; DVLA office: Leeds; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "YM": [
+   {
+    "admin1": "England",
+    "city": "Sheffield",
+    "note": "official mnemonic: Yorkshire; DVLA office: Sheffield; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "YN": [
+   {
+    "admin1": "England",
+    "city": "Sheffield",
+    "note": "official mnemonic: Yorkshire; DVLA office: Sheffield; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "YO": [
+   {
+    "admin1": "England",
+    "city": "Sheffield",
+    "note": "official mnemonic: Yorkshire; DVLA office: Sheffield; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "YP": [
+   {
+    "admin1": "England",
+    "city": "Sheffield",
+    "note": "official mnemonic: Yorkshire; DVLA office: Sheffield; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "YR": [
+   {
+    "admin1": "England",
+    "city": "Sheffield",
+    "note": "official mnemonic: Yorkshire; DVLA office: Sheffield; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "YS": [
+   {
+    "admin1": "England",
+    "city": "Sheffield",
+    "note": "official mnemonic: Yorkshire; DVLA office: Sheffield; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "YT": [
+   {
+    "admin1": "England",
+    "city": "Sheffield",
+    "note": "official mnemonic: Yorkshire; DVLA office: Sheffield; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "YU": [
+   {
+    "admin1": "England",
+    "city": "Sheffield",
+    "note": "official mnemonic: Yorkshire; DVLA office: Sheffield; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "YV": [
+   {
+    "admin1": "England",
+    "city": "Sheffield",
+    "note": "official mnemonic: Yorkshire; DVLA office: Sheffield; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "YW": [
+   {
+    "admin1": "England",
+    "city": "Beverley",
+    "note": "official mnemonic: Yorkshire; DVLA office: Beverley; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "YX": [
+   {
+    "admin1": "England",
+    "city": "Beverley",
+    "note": "official mnemonic: Yorkshire; DVLA office: Beverley; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ],
+  "YY": [
+   {
+    "admin1": "England",
+    "city": "Beverley",
+    "note": "official mnemonic: Yorkshire; DVLA office: Beverley; 2001+ local memory tag; does not apply to personalised marks"
+   }
+  ]
+ }
+}

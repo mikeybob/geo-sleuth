@@ -1,0 +1,21 @@
+[
+  {"kind": "plate", "value": "AA12 BCD", "expect": [{"admin1": "England", "city": "Peterborough"}]},
+  {"kind": "plate", "value": "sa64 xyz", "expect": [{"admin1": "Scotland", "city": "Glasgow"}]},
+  {"kind": "plate", "value": "CA21ABC", "expect": [{"admin1": "Wales", "city": "Cardiff"}]},
+  {"kind": "plate", "value": "HW21 ABC", "expect": [{"admin1": "England", "admin2": "Isle of Wight"}]},
+  {"kind": "plate", "value": "LN13 OGP", "expect": [{"admin1": "England", "city": "Borehamwood"}]},
+  {"kind": "plate", "value": "YA51 ABC", "expect": [{"admin1": "England", "city": "Leeds"}]},
+  {"kind": "plate", "value": "XA12 ABC", "expect": []},
+  {"kind": "plate", "value": "ABC 1234", "expect": []},
+  {"kind": "postal-code", "value": "SW1A 1AA", "expect": [{"admin1": "England", "admin2": "Greater London", "city": "London"}]},
+  {"kind": "postal-code", "value": "S1 2HH", "expect": [{"admin1": "England", "city": "Sheffield"}]},
+  {"kind": "postal-code", "value": "BT1 5GS", "expect": [{"admin1": "Northern Ireland", "city": "Belfast"}]},
+  {"kind": "postal-code", "value": "CF10 1EP", "expect": [{"admin1": "Wales", "city": "Cardiff"}]},
+  {"kind": "postal-code", "value": "AB10 1AB", "expect": [{"admin1": "Scotland", "city": "Aberdeen"}]},
+  {"kind": "postal-code", "value": "SY1 1AA", "expect": [
+    {"admin1": "England", "city": "Shrewsbury"},
+    {"admin1": "Wales", "city": "Shrewsbury"}
+  ]},
+  {"kind": "postal-code", "value": "GY1 1AA", "expect": [{"admin1": "Guernsey"}]},
+  {"kind": "postal-code", "value": "ZZ99 1AA", "expect": []}
+]

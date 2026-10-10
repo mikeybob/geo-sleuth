@@ -29,10 +29,24 @@ General order when the country is still open: driving side and plate shape to ex
 
 ### Official bilingual or multilingual signs
 - Look for: two languages with the same content on one official traffic sign or street-name sign
-- Points to: an officially multilingual admin area, not "near a country that speaks that language" (e.g., German-Italian bilingual signs in Italy → Province of Bolzano/South Tyrol)
+- Points to: an officially multilingual admin area, not "near a country that speaks that language" (e.g., German-Italian bilingual signs in Italy → Province of Bolzano/South Tyrol; Welsh/English official signs → Wales)
 - Strength: strong
 - Counterexamples: bilingual private shop signs don't count; foreign-language signs added for tourists in tourist areas don't count
 - Sources: v001
+
+### Yellow rear / white front number plates
+- Look for: a long European plate, black-on-white at the front of the car and black-on-yellow at the rear (or only the rear visible and yellow)
+- Points to: the UK, Ireland, the Crown dependencies, and a few other places that copied the same colour rule — not continental Europe (white or yellow both sides, or a blue EU strip on a white rear plate)
+- Strength: medium (with left-hand traffic and English, the shortlist is the UK and Ireland)
+- Counterexamples: the Republic of Ireland uses the same colours but a `year-county-number` layout and km/h signs; some UK personalised and NI plates still follow the colours with a different character layout; trailer and temporary plates vary; a single yellow plate in a car park is not enough
+- Sources: https://www.gov.uk/displaying-number-plates
+
+### Speed limits in miles per hour
+- Look for: a circular speed-limit sign with a number and no "km" (30, 40, 50, 60, 70); repeater signs; painted `30` on the carriageway. UK national-speed-limit is a circular black-on-white diagonal stripe
+- Points to: the UK (and Crown dependencies). The Republic of Ireland and continental Europe post km/h
+- Strength: medium (country-level, together with plates and driving side)
+- Counterexamples: the United States and some other countries also use mph, but not this circular Vienna-style sign; a vehicle speedometer showing mph is not a roadside sign; older Irish signs and private sites can confuse
+- Sources: https://www.gov.uk/speed-limits
 
 ### Sub-brands and business lines of chain brands
 - Look for: small marks on the sign besides the parent brand (truck tire retreading, commercial vehicle service, etc.)
